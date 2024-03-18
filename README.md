@@ -1,5 +1,5 @@
-# Zelda-with-Python ⚔
-A Zelda-like game I made with Python following this tutorial https://youtu.be/QU1pPzEGrqw. This is one of the best and longest Python projects I ever made, it's a really great way to learn OOP (Object Oriented Programming) in Python!
+# Adventures of Alice ⚔
+An indie game I made with Python following this tutorial https://youtu.be/QU1pPzEGrqw. This is one of the best and longest Python projects I ever made, it's a really great way to learn OOP (Object Oriented Programming) in Python!
 
 ![image](https://user-images.githubusercontent.com/85440857/160607397-d085869c-3910-4091-b790-be096ee72b5a.png)
 
@@ -8,8 +8,6 @@ A Zelda-like game I made with Python following this tutorial https://youtu.be/QU
 2. Download this Repository (You can clone it) or head to the [`releases page`](https://github.com/SpyderGamer/Zelda-with-Python/releases).
 3. Extract the ZIP file and find the `Main.py` file which is located in the `Code` folder.
 4. Run this file and enjoy! <br /> 
-
-Also, there is a folder with pictures included to help you with the download process.
 
 # Goal 🎯
 The goal of the game is to kill many monsters and get EXP to upgrade your skills! If your health runs out, the game will close automatically, so **DON'T DIE!** Goodluck! Also, this code is not a full game, its just a nice project to pass time. It shows how powerful Python really is!
