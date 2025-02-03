@@ -1,5 +1,5 @@
 # Adventures of Alice ⚔
-An indie game I made with Python following this tutorial https://youtu.be/QU1pPzEGrqw. This is one of the best and longest Python projects I ever made, it's a really great way to learn OOP (Object Oriented Programming) in Python!
+An indie game I made with Python following this tutorial https://youtu.be/QU1pPzEGrqw. This is one of the best and longest Python projects I ever made.
 
 ![image](https://user-images.githubusercontent.com/85440857/160607397-d085869c-3910-4091-b790-be096ee72b5a.png)
 
